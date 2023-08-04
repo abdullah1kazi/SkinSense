@@ -31,6 +31,6 @@ As contributors and maintainers of SkinSense, we strive to foster a welcoming an
 
 ## License
 
-By contributing to SkinSense, you agree that your contributions will be licensed under the MIT specified in the [LICENSE.md](link-to-license) file of this repository.
+By contributing to SkinSense, you agree that your contributions will be licensed under the MIT specified in the [LICENSE.md](LICENSE.md) file of this repository.
 
-Thank you for your interest in contributing to [Project Name]! Your contributions play a crucial role in making this project a success. If you have any questions or need further assistance, please don't hesitate to reach out to us through [contact information or link to community forums]. Happy contributing!
+Thank you for your interest in contributing to SkinSense! Your contributions play a crucial role in making this project a success. If you have any questions or need further assistance, please don't hesitate to reach out to us through [contact information or link to community forums]. Happy contributing!
