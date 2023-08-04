@@ -97,7 +97,7 @@ We are dedicated to improving and expanding the capabilities of the SkinSense pr
 
 ## Contributing
 We welcome contributions! Please see the CONTRIBUTING.md file for details on how you can help improve SkinSense.
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
