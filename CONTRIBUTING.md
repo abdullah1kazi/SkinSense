@@ -27,7 +27,7 @@ Improving documentation is also valuable to the project. If you find any areas t
 
 ## Code of Conduct
 
-As contributors and maintainers of SkinSense, we strive to foster a welcoming and inclusive community. Please review our [Code of Conduct](link-to-code-of-conduct) before participating in the project. Be respectful and considerate of others and their opinions.
+As contributors and maintainers of SkinSense, we strive to foster a welcoming and inclusive community. Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in the project. Be respectful and considerate of others and their opinions.
 
 ## License
 
