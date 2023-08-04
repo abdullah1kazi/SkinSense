@@ -80,13 +80,26 @@ Instructions on how to use the web application.
 If the model predicts a potential skin condition, it's essential to consult a healthcare provider for a definitive diagnosis.
 
 ## Future Improvements
-Outline your plans for future updates to the project. 
+We have exciting plans to enhance the SkinSense project further. Here are some of the future updates we are considering:
+
+1. **Data Fine-tuning:** We aim to finetune the model on a more extensive dataset, preferably over millions of diverse skin lesion images. This will allow the model to learn from a broader range of cases and improve its accuracy and generalization.
+
+2. **Web Application:** We are actively working on publishing the SkinSense web application, making it accessible to a broader audience. The website will offer a user-friendly interface, allowing users to upload skin lesion images, change image classification models, receive predictions, and interpret the results seamlessly. Stay tuned for updates as we progress toward the launch of the SkinSense website!\
+
+3. **Mobile Application:** We are actively working on developing a user-friendly mobile application for both iOS and Android platforms. The mobile app will offer seamless access to the SkinSense model, enabling users to analyze skin lesion images conveniently on their smartphones.
+
+4. **Enhanced Model Architecture:** We are continuously exploring advancements in deep learning models and architectures. We plan to integrate the latest state-of-the-art techniques to improve the performance and efficiency of the SkinSense model.
+
+5. **User Feedback and Collaboration:** We value feedback from users and the medical community. By collaborating with dermatologists and medical professionals, we aim to refine the model and make it more reliable and clinically relevant.
+
+
+We are dedicated to improving and expanding the capabilities of the SkinSense project to benefit both patients and medical practitioners. Your feedback and support are invaluable in our journey to revolutionize skin disease diagnosis. Stay tuned for more updates and follow our GitHub repository for the latest developments.
 
 ## Contributing
 We welcome contributions! Please see the CONTRIBUTING.md file for details on how you can help improve SkinSense.
 
 ## License
-This project is licensed under the [license name] - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:youremail@example.com).
+For questions or feedback, please contact [Abdullah Kazi](kaziabdullah61@gmail.com).
