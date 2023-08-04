@@ -6,7 +6,7 @@ We welcome contributions from the community to improve SkinSense and make it eve
 
 ### Bug Reports and Feature Requests
 
-If you encounter a bug while using SkinSense or have an idea for a new feature, please [open a new issue](link-to-issue-tracker) on our issue tracker. Be sure to provide detailed information about the bug or feature request so that we can understand and address it effectively.
+If you encounter a bug while using SkinSense or have an idea for a new feature, please feel free to open up an issue. Be sure to provide detailed information about the bug or feature request so that we can understand and address it effectively.
 
 ### Code Contributions
 
