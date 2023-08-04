@@ -102,4 +102,4 @@ We welcome contributions! Please see the CONTRIBUTING.md file for details on how
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For questions or feedback, please contact [Abdullah Kazi](kaziabdullah61@gmail.com).
+For questions or feedback, please contact [Abdullah Kazi](mailto:kaziabdullah61@gmail.com).
