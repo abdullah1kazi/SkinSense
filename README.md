@@ -24,9 +24,14 @@ To install the required libraries, use pip and the provided requirements.txt fil
 ```bash
 pip install -r requirements.txt
 ```
+## Data
+The model is trained on a diverse dataset of over 60,000 skin lesion images obtained from the International Skin Imaging Collaboration (ISIC). ISIC is a reputable organization known for curating high-quality dermatology datasets with expertly annotated images. Their dataset includes a comprehensive collection of skin lesion images, covering various skin conditions, both benign and malignant.
+
+## Code
+All of our code is open source. In this repository, you'll find everything from the preprocessing steps to the model training code and web application code. Feel free to explore and suggest any improvements.
 
 ## Usage
-Instructions on how to use the web application or how to use the model with new data.
+Instructions on how to use the web application.
 
 ### Running the Web Application Locally
 
@@ -73,12 +78,6 @@ Instructions on how to use the web application or how to use the model with new 
 
 **Remember that this web application is intended for informational purposes only and is not a substitute for professional medical advice.**
 If the model predicts a potential skin condition, it's essential to consult a healthcare provider for a definitive diagnosis.
-
-## Data
-The model is trained on a diverse dataset of over 60,000 skin lesion images obtained from the International Skin Imaging Collaboration (ISIC). ISIC is a reputable organization known for curating high-quality dermatology datasets with expertly annotated images. Their dataset includes a comprehensive collection of skin lesion images, covering various skin conditions, both benign and malignant.
-
-## Code
-All of our code is open source. In this repository, you'll find everything from the preprocessing steps to the model training code and web application code. Feel free to explore and suggest any improvements.
 
 ## Future Improvements
 Outline your plans for future updates to the project. 
