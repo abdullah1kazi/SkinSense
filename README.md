@@ -1,4 +1,5 @@
 # SkinSense
+Model has not been uploaded, will upload ASAP as .bin and .tar.gz format. 
 
 ## Overview
 SkinSense is an innovative machine-learning solution designed to diagnose skin diseases using image analysis. We aim to revolutionize how skin diseases are diagnosed by merging the power of machine learning with medical expertise. This tool leverages a sophisticated learning algorithm, ResNet50, optimized with advanced data augmentation techniques to offer a high degree of accuracy and reliability in diagnosing skin diseases.
