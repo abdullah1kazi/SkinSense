@@ -43,10 +43,10 @@ Instructions on how to use the web application.
 
 2. **Download the Code and Model:**
 - Download the `app.py` file from the GitHub repository and save it to a folder on your local machine.
-- Download the pre-trained SkinSense model weights file (`final_model12.pth`) from the GitHub repository and save it in the same folder as `app.py`.
+- Download the pre-trained SkinSense model weights file (`pytorch_model.bin`) and the config.json file from the HuggingFace repository and save it in the same folder as `app.py`.
 
 3. **Run the Web Application:**
-- Open a terminal or command prompt and navigate to the folder where you saved `app.py` and `final_model12.pth`.
+- Open a terminal or command prompt and navigate to the folder where you saved `app.py` and `pytorch_model.bin`.
 - Execute the following command:
   ```
   streamlit run app.py
