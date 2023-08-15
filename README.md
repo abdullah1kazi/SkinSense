@@ -38,9 +38,9 @@ Instructions on how to use the web application.
 
 1. **Install Dependencies:**
 
-/```bash
+```bash
 pip install streamlit torch torchvision pandas base64 numpy
-/```
+```
 
 2. **Download the Code and Model:**
 - Download the `app.py` file from the GitHub repository and save it to a folder on your local machine.
