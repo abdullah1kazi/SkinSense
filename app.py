@@ -249,7 +249,7 @@ def show_skinsense(benign_diagnoses, malignant_diagnoses, class_names):
             self.binary_head = torch.nn.Linear(in_features, 1)
             self.binary_loss_fn = torch.nn.BCEWithLogitsLoss()
 
-            # Multi-class classification head (30 output units)
+            # Multi-class classification head (27 output units)
             self.multi_head = torch.nn.Linear(in_features, 27)
             self.multi_loss_fn = torch.nn.CrossEntropyLoss()
 
@@ -258,7 +258,6 @@ def show_skinsense(benign_diagnoses, malignant_diagnoses, class_names):
             self.load_state_dict(state_dict, strict=False)
 
         def forward(self, x):
-            # Note that we do not need to rescale the images
             features = self.model(x)
             binary_output = self.binary_head(features.view(features.size(0), -1))
             multi_output = self.multi_head(features.view(features.size(0), -1))
