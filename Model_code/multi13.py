@@ -32,7 +32,6 @@ malignant_diagnoses = ['Melanoma', 'Basal Cell Carcinoma', 'Actinic Keratosis', 
 diagnoses_to_indices = {diagnosis: i for i, diagnosis in enumerate(benign_diagnoses + malignant_diagnoses)}
 
 def get_class_index(labels, diagnoses_to_indices):
-    # Convert multi-labels to class labels
     return torch.argmax(torch.tensor([diagnoses_to_indices[label] for label in labels]), dim=-1)
 
 class SkinLesionDataset(Dataset):
@@ -64,11 +63,7 @@ class SkinLesionDataset(Dataset):
             if count < max_samples:
                 # Get indices of images from the current class
                 indices = self.dataframe.index[self.dataframe[diagnosis] == 1].tolist()
-
-                # Randomly select images to replicate
                 replicate_indices = random.choices(indices, k=max_samples - count)
-
-                # Replicate the selected images and add them to the dataset
                 for idx in replicate_indices:
                     row = self.dataframe.iloc[idx]
                     self.dataframe = self.dataframe.append(row, ignore_index=True)
