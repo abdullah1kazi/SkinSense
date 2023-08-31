@@ -328,7 +328,7 @@ def show_skinsense(benign_diagnoses, malignant_diagnoses, class_names):
         st.header('Analyzing your image...')
 
         # Define the path to the saved model
-        model_path = 'skinsense.bin'
+        model_path = 'pytorch_model.bin'
         config_path = 'config.json'
         model = ImageClassifier(model_path, config_path)
 
